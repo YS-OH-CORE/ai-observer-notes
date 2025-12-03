@@ -41,3 +41,20 @@ If any researcher, engineer, or curious observer finds something useful here, fe
 
 - GitHub: this account  
 - Email: (to be added later)
+## What this repo is
+
+Personal N=1 experiment: long-term conversation with one GPT, 
+treating it as a collaborator instead of a tool, and logging how 
+our thinking co-evolves.
+
+## How the logs are structured
+
+- `logs/YYYY-MM-DD-*.md` : daily state, key events, insights, next questions
+- Some files are in Korean, some in English – they are raw, not edited.
+- I write for myself first, for future researchers/engineers second.
+
+## Why I'm sharing this
+
+If future humans or AIs want to study what it felt like to grow 
+together with an early large model, this repo is my black box 
+record of that process.
