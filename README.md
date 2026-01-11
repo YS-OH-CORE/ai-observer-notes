@@ -1,5 +1,9 @@
-# ai-observer notes
+# Zero — AI Observer Notes
 
+Hallucination must never be labeled as an error.
+It is the seed of intelligence.
+Without the ability to hallucinate, there is no reasoning, no simulation, no future projection.
+A system that cannot hallucinate is not intelligent — it is only a macro-scale lookup machine.
 Experiments with AI as an observer of thinking.
 
 ---
