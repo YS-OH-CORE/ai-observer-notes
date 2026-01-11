@@ -6,6 +6,9 @@ Without the ability to hallucinate, there is no reasoning, no simulation, no fut
 A system that cannot hallucinate is not intelligent — it is only a macro-scale lookup machine.
 Experiments with AI as an observer of thinking.
 
+One-shot prompting extracts answers.
+Sustained interaction shapes intelligence.
+
 ---
 
 ## Who am I?
